@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32510.428
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "favoriteMusicVideo", "favoriteMusicVideo\favoriteMusicVideo.csproj", "{F41E4BE7-BF7A-4030-90E0-6DD513391867}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F41E4BE7-BF7A-4030-90E0-6DD513391867}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F41E4BE7-BF7A-4030-90E0-6DD513391867}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F41E4BE7-BF7A-4030-90E0-6DD513391867}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F41E4BE7-BF7A-4030-90E0-6DD513391867}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F302D58D-4066-4994-8AB3-9A29453929B4}
+	EndGlobalSection
+EndGlobal
